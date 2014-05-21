@@ -4,7 +4,7 @@ This is not an official [OrgSync](http://www.orgsync.com) product.
 
 Downloads all files from submissions in an OrgSync form using Node.js
 
-Requires an API from OrgSync.
+Requires an API key from OrgSync.
 
 ##Installation:
 
