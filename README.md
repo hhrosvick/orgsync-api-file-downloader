@@ -16,3 +16,6 @@ Run 'npm install' in the same folder.
 
 On the command line:
 >node run.js [path to download folder] [form id] [API key]
+
+For example:  
+>node run.js "C:\OrgSyncFormDownload" 1234 jhljlksdhfsdafjklh...  
