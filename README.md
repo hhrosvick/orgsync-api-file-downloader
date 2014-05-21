@@ -20,3 +20,7 @@ On the command line:
 
 For example:  
 >node run.js "C:\OrgSyncFormDownload" 1234 jhljlksdhfsdafjklh...  
+
+##Note:
+
+This will be updated eventually to use the official(?) [OrgSync API Javascript Client](https://github.com/orgsync/orgsync-api-javascript), when I have some time.
