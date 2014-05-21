@@ -9,7 +9,7 @@ Requires an API from OrgSync.
 ##Installation:
 
 Install [Node.js](http://www.nodejs.org)  
-Download run.js and package.json to a folder.  
+Download [run.js](run.js) and [package.json](run.js) to a folder.  
 Run 'npm install' in the same folder.  
 
 ##Usage:
