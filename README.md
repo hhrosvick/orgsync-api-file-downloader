@@ -2,9 +2,10 @@ OrgSync API File Downloader
 ===========================
 This is not an official [OrgSync](http://www.orgsync.com) product.
 
-Downloads all files from submissions in an OrgSync form using Node.js
+Downloads all files from submissions in an OrgSync form using Node.js  
+Files are put in folders based on the submission ID.
 
-Requires an API key from OrgSync.
+This requires an API key from OrgSync.
 
 ##Installation:
 
