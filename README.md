@@ -1,6 +1,6 @@
 OrgSync API File Downloader
 ===========================
-This is not an official [OrgSync](www.orgsync.com) product.
+This is not an official [OrgSync](http://www.orgsync.com) product.
 
 Downloads all files from submissions in an OrgSync form using Node.js
 
@@ -8,7 +8,7 @@ Requires an API from OrgSync.
 
 ##Installation:
 
-Install [Node.js](www.nodejs.org)  
+Install [Node.js](http://www.nodejs.org)  
 Download run.js and package.json to a folder.  
 Run 'npm install' in the same folder.  
 
